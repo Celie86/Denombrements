@@ -36,7 +36,7 @@ namespace Denombrements
                     for (int k = 1; k <= nombreElt; k++)
                         r *= k;
                     Console.WriteLine(nombreElt + "! = " + r);
-
+                           
                         break;
 
                     case 2:
